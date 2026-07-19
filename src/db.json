@@ -1,0 +1,53 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "title": "Home",
+      "path": "/"
+    },
+    {
+      "id": "2",
+      "title": "Shop",
+      "path": "/shop"
+    },
+    {
+      "id": "3",
+      "title": "Help Animals",
+      "path": "/help"
+    },
+    {
+      "id": "4",
+      "title": "Login",
+      "path": "/login"
+    },
+    {
+      "id": "5",
+      "title": "SignUp",
+      "path": "/SignUp"
+    }
+  ],
+  "users": [
+    {
+      "email": "Toobabon@gamail.com",
+      "password": "4455",
+      "id": "niG7ctE6OWQ"
+    },
+    {
+      "email": "nazanin",
+      "password": "22",
+      "id": "qCqNKEX_Gw0"
+    },
+    {
+      "email": "moka",
+      "password": "55",
+      "id": "RmCTxZmYRBY"
+    },
+    {
+      "email": "sara",
+      "password": "77",
+      "id": "fwk850B1G2g"
+    }
+  ],
+  "products": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
