@@ -1,11 +1,12 @@
 import { Route, Routes } from "react-router-dom";
-import Show from "./Show";
+import Shop from "../Shop/Shop";
+
 
 const ProductRouter = () => {
     return (  
         <>
           <Routes>
-            <Route path="/:id" element={<Show/>}/>
+            <Route path="/" element={<Shop/>}/>
           </Routes>
         </>
     );
